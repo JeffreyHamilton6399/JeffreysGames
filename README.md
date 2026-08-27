@@ -18,3 +18,9 @@ Images/           screenshots and page art
 
 This is one of my earliest projects and is kept as it was, apart from repairs
 to links that pointed at files that were not there.
+
+## License
+
+The site itself — the HTML, styling and page art — is MIT licensed; see
+[LICENSE](LICENSE). The games it links to use third-party assets, credited on
+`Sources.html`, which the license does not cover.
